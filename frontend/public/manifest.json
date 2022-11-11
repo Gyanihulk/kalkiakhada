@@ -1,0 +1,12 @@
+{
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "KalkiAkhda",
+    "short_name": "cb",
+    "icons": [
+        
+    ]
+}
