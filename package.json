@@ -8,7 +8,7 @@
     "dev": "keystone dev",
     "devd": "NODE_ENV=development NODE_OPTIONS=--inspect DISABLE_LOGGING=true keystone dev",
     "start": "keystone start",
-    "build": "keystone build",
+    "build": "keystone build && keystone prisma migrate deploy",
     "seed-data": "keystone dev --seed-data",
     "test": "jest --runInBand --testTimeout=60000",
     "postinstall": "keystone postinstall"

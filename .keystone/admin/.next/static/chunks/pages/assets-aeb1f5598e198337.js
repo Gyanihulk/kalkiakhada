@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[742],{3647:function(n,s,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/assets",function(){return t(2427)}])},2427:function(n,s,t){"use strict";t.r(s);var u=t(7846);s.default=(0,u.d)({listKey:"Asset"})}},function(n){n.O(0,[846,888,774,179],(function(){return s=3647,n(n.s=s);var s}));var s=n.O();_N_E=s}]);

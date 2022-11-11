@@ -30,6 +30,7 @@ export default withAuth(
     },
     db: {
       provider: 'postgresql',
+      useMigrations: true,
       url: databaseURL,
       async onConnect(context) {
         console.log('Connected to the database!')
