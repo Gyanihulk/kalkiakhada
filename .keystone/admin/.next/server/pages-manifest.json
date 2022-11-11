@@ -1,7 +1,25 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
   "/api/__keystone_api_build": "pages/api/__keystone_api_build.js",
-  "/": "pages/index.js"
+  "/assets": "pages/assets.html",
+  "/assets/[id]": "pages/assets/[id].html",
+  "/categories/[id]": "pages/categories/[id].html",
+  "/categories": "pages/categories.html",
+  "/collections/[id]": "pages/collections/[id].html",
+  "/collections": "pages/collections.html",
+  "/": "pages/index.html",
+  "/init": "pages/init.html",
+  "/no-access": "pages/no-access.html",
+  "/roles/[id]": "pages/roles/[id].html",
+  "/signin": "pages/signin.html",
+  "/roles": "pages/roles.html",
+  "/structures/[id]": "pages/structures/[id].html",
+  "/structures": "pages/structures.html",
+  "/tags/[id]": "pages/tags/[id].html",
+  "/tags": "pages/tags.html",
+  "/users/[id]": "pages/users/[id].html",
+  "/users": "pages/users.html",
+  "/404": "pages/404.html"
 }

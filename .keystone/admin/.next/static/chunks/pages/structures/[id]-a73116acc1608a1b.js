@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[624],{4688:function(u,n,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/structures/[id]",function(){return t(4147)}])},4147:function(u,n,t){"use strict";t.r(n);var r=t(1086);n.default=(0,r.p)({listKey:"Structure"})}},function(u){u.O(0,[86,888,774,179],(function(){return n=4688,u(u.s=n);var n}));var n=u.O();_N_E=n}]);
